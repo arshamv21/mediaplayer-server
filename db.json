@@ -1,0 +1,70 @@
+{
+  "videos": [
+    {
+      "id": "8",
+      "caption": "Heeriye",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DKDjmKFjxXt0&psig=AOvVaw39EqU-lnXgfR8CJOKb6SH_&ust=1699364103184000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDGreO-r4IDFQAAAAAdAAAAABAE",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "11",
+      "caption": "LOFI MASHUP",
+      "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.saavncdn.com%2Feditorial%2FBestIndianLoFiHits_20220218042449_500x500.jpg&tbnid=fUQVXjj2Ngdn6M&vet=12ahUKEwii09rRkdqCAxViTmwGHd-oCFUQMygCegQIARBK..i&imgrefurl=https%3A%2F%2Fwww.jiosaavn.com%2Ffeatured%2Fbest-indian-lo-fi-hits%2Fyh7x7lXtCVkGSw2I1RxdhQ__&docid=A_w7pUErBAx8fM&w=500&h=500&q=lofi%20songs%20hindi&ved=2ahUKEwii09rRkdqCAxViTmwGHd-oCFUQMygCegQIARBK",
+      "embedLink": "https://www.youtube.com/embed/SO21BH6vTC4"
+    },
+    {
+      "id": "12",
+      "caption": "Shinunoga E-Wa",
+      "url": "https://i.ytimg.com/vi/3zh9Wb1KuW8/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/lRVJuPI5IXI"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": {},
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": {},
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": {},
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": {},
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "chaleya",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "11/23/2023, 09:27:17 PM",
+      "id": 1
+    },
+    {
+      "caption": "Heeriye",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "timeStamp": "11/23/2023, 09:28:36 PM",
+      "id": 2
+    },
+    {
+      "caption": "LOFI MASHUP",
+      "embedLink": "https://www.youtube.com/embed/SO21BH6vTC4",
+      "timeStamp": "11/23/2023, 09:28:43 PM",
+      "id": 3
+    },
+    {
+      "caption": "Shinunoga E-Wa",
+      "embedLink": "https://www.youtube.com/embed/lRVJuPI5IXI",
+      "timeStamp": "11/23/2023, 09:28:48 PM",
+      "id": 4
+    }
+  ]
+}
